@@ -1,3 +1,8 @@
+| Code! | Task Performance |
+| ------------------>>> | <<<------------------ |
+| App-Dev | Group-1 |
+| We are the group 1 and we are the most gorgeous person in the room.| Do you want to watch Netflix and go chill? hehe xD |
+
 # GROUP 1: APPDEV
 ## Lucky Hendrix Taguic
 ### Mark Lawrence Perez
@@ -39,4 +44,4 @@
   "age": 18
 }
 ```
-
+[^1]: This is the last part of our TP //The FootNote.
