@@ -4,7 +4,7 @@
 
 | App-Dev | Group-1 |
 
-| We are the group 1 and we are the most gorgeous person in the room.| Do you want to watch Netflix and go chill? hehe xD |
+| ------------------>>> | <<<------------------ |
 
 # GROUP 1: APPDEV
 ## Lucky Hendrix Taguic
@@ -45,6 +45,30 @@
   "firstName": "Mark Lawrence",
   "lastName": "Perez",
   "age": 18
+}
+```
+
+# DESCRIPTION OF THE GROUP MEMBERS
+
+```
+{
+"Name": "Lucky Hendrix Taguic"
+"Description": "Cute" 
+}
+
+{
+"Name": "Ivan Alimoren"
+"Description": "White"
+}
+
+{
+"Name": "Emmanuel Dela Rosa"
+"Description": "Big D"
+}
+
+{
+"Name": "Mark Lawrence Perez
+"Description": "Old"
 }
 ```
 [^1]: This is the last part of our TP //The FootNote.
