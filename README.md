@@ -14,7 +14,6 @@
 
 **Task Performance Pre-Final**
 
-
 *Favorite Series*
 1. Umbrella Academy
 2. Breaking Bad
@@ -22,6 +21,7 @@
 4. Avatar
 5. One Piece
 
+# INFORMATION OF THE GROUP MEMBERS
 ```
 {
   "firstName": "Lucky Hendrix",
