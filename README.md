@@ -1,4 +1,6 @@
-| Code! | Task Performance |
+### This is the GREATEST HEADING IN THE WHOLE WIDE WORLD {#group-1}
+
+Code! | Task Performance |
 
 | ------------------>>> | <<<------------------ |
 
@@ -20,6 +22,13 @@
 3. Money Heist
 4. Avatar
 5. One Piece
+
+- [x] Did we sleep well? 😴
+- [X] Did we eat? 🥩
+- [ ] Did we do our activities? 📰
+- [X] Do we love Maam Jocelyn? 💙
+- [ ] Do we love bald people? 👨‍🦲
+- [X] Do you love chicken nuggets? 🐔
 
 # INFORMATION OF THE GROUP MEMBERS
 ```
